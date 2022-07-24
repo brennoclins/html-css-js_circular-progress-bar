@@ -5,7 +5,7 @@ Uma simples barra de progresso circular que aceita interação do usuário
 Autor: Brenno
 
 
-![tela](drip-drop-animation-by-brenno.gif)
+![tela](bcl-lab_screen.gif)
 
 #### Tecnologias usadas:
 - [HTML](https://www.w3schools.com/html/default.asp)
